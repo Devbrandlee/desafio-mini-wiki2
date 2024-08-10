@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  border: ridge white 1px;
+  padding: 0px;
+  margin: 0px;
+  background-image: url("https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/12/5-teams-rogue-has-joined-in-the-comics-2.jpg");
+  background-size: contain;
+  height: 215px;
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.fotodoperfil {
+  width: 200px;
+  border-radius: 60%;
+  border: ridge white 4px;
+}
+
+main {
+  border: ridge white;
+}
+
+h3 {
+  margin: 0px;
+  padding: 8px 0px;
+}
+
+.rgba {
+  background-color: rgba(89, 47, 47, 0.4);
+}
+
+.nome {
+  color: black;
+  border: 0px;
+  margin: 0px 0px 0px;
+}
+
+address {
+  margin: 15px 0px 0px 2px;
+}
+
+h2 {
+  margin: 2px;
+  padding: 2px;
+}
+
+footer {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  border: ridge white;
+  background-color: rgba(89, 47, 47, 0.4);
+}
+
+.social-media-links {
+  list-style: none;
+  padding: 9px 0px 0px 0px;
+  margin-top: -20px;
+}
+
+.social-media-links li {
+  display: inline-block;
+}
+
+.imglinkedin {
+  width: 37px;
+  height: 30px;
+  margin: 23px 0px 0px 0px;
+}
+
+.imginsta {
+  width: 35px;
+  height: 30px;
+  margin: 9px 0px 0px 0px;
+}
+
+.imggithub {
+  width: 35px;
+  height: 30px;
+  margin: 0px;
+}
+
+h5 {
+  margin: 10px 30px 20px;
+  text-align: center;
+}/*# sourceMappingURL=style.css.map */
