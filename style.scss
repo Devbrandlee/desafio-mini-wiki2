@@ -56,30 +56,33 @@ footer {
 }
 
 .social-media-links {
-  padding: 1px 0px 20px 0px;
+  padding: 0px;
+  margin: 10px 2px;
 }
 
 .social-media-links li {
   display: inline-block;
-  margin: 1px;
+  margin: 0px 2px 0px -5px;
+  padding: 0px 0px 1px 3px;
+  
 }
 
 .imglinkedin {
-  width: 37px;
-  height: 30px;
-  margin: 23px 0px 0px 0px;
+  width: 35px;
+  height: 29px;
+  margin: 18px 0px 0px 0px;
 }
 
 .imginsta {
-  width: 35px;
-  height: 30px;
-  margin: 9px 0px 0px 0px;
+  width: 40px;
+  height: 34px;
+  margin: 0px 1px -3px 0px;
 }
 
 .imggithub {
-  width: 35px;
-  height: 30px;
-  margin: 0px;
+  width: 33px;
+  height: 28px;
+  margin: 1px;
 }
 
 h5 {
